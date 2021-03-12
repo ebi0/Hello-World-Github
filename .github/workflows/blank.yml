@@ -11,5 +11,5 @@ env:
 MY_VAR: Hi there! My name is
 FIRST_NAME: Ershunlong
 LAST_NAME: BI
-run:
+run: |
 echo $MY_VAR $FIRST_NAME $LAST_NAME
